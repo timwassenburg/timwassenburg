@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Tim!
 
-<!--
-**timwassenburg/timwassenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Laravel developer with over 10 years of experience creating web applications. I specialize in building scalable and robust backends using the Laravel framework, and I love working with modern technologies like Livewire, Tailwindcss, and AWS.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Backend: PHP, Laravel, PHPUnit
+    Frontend: Livewire, Tailwindcss, Bootstrap, HTML/CSS
+    Database: MySQL, Redis
+    Environment: Docker, Valet, Linux, CI/CD, GIT
+    Cloud Platforms: AWS, DigitalOcean
+
+## How to Reach Me
+
+Feel free to reach out to me via [email](tim.wassenburg@thefuturepartners.nl), [Linkedin](https://www.linkedin.com/in/tim-wassenburg/), or [Twitter](https://twitter.com/timwassenburg/). I'm always happy to connect with other developers and collaborate on new projects.
+
+
+## Disclaimer
+
+Please note that the public repositories on my GitHub profile do not necessarily represent the quality of my work. The reason for this is that larger projects I have worked on for clients are under non-disclosure agreements, and the code cannot be made public.
+
+Thanks for stopping by, and happy coding!
