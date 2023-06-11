@@ -5,8 +5,8 @@ I'm a passionate Laravel developer with over 10 years of experience creating web
 ## Tech Stack
 
     Backend: PHP, Laravel, PHPUnit
-    Frontend: Livewire, Tailwindcss, Bootstrap, HTML/CSS
-    Database: MySQL, Redis
+    Frontend: Livewire, React, Tailwindcss, Bootstrap
+    Database: MySQL, PostgreSQL, Redis
     Environment: Docker, Valet, Linux, CI/CD, GIT
     Cloud Platforms: AWS, DigitalOcean
 
