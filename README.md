@@ -27,6 +27,7 @@ I'm a passionate Laravel developer with over 10 years of experience creating web
 
 Feel free to reach out to me via [email](tim.wassenburg@thefuturepartners.nl), [Linkedin](https://www.linkedin.com/in/tim-wassenburg/), or [Twitter](https://twitter.com/timwassenburg/). I'm always happy to connect with other developers and collaborate on new projects.
 
+<p align="left"> <a href="https://www.github.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tim-wassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## Disclaimer
 
