@@ -10,17 +10,6 @@ I'm a passionate Laravel developer with over 10 years of experience creating web
     Environment: Docker, Valet, Linux, CI/CD, GIT
     Cloud Platforms: AWS, DigitalOcean
 
-## How to Reach Me
-
-Feel free to reach out to me via [email](tim.wassenburg@thefuturepartners.nl), [Linkedin](https://www.linkedin.com/in/tim-wassenburg/), or [Twitter](https://twitter.com/timwassenburg/). I'm always happy to connect with other developers and collaborate on new projects.
-
-
-## Disclaimer
-
-Please note that the public repositories on my GitHub profile do not necessarily represent the quality of my work. The reason for this is that larger projects I have worked on for clients are under non-disclosure agreements, and the code cannot be made public.
-
-Thanks for stopping by, and happy coding!
-
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -33,3 +22,14 @@ Thanks for stopping by, and happy coding!
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+
+## How to Reach Me
+
+Feel free to reach out to me via [email](tim.wassenburg@thefuturepartners.nl), [Linkedin](https://www.linkedin.com/in/tim-wassenburg/), or [Twitter](https://twitter.com/timwassenburg/). I'm always happy to connect with other developers and collaborate on new projects.
+
+
+## Disclaimer
+
+Please note that the public repositories on my GitHub profile do not necessarily represent the quality of my work. The reason for this is that larger projects I have worked on for clients are under non-disclosure agreements, and the code cannot be made public.
+
+Thanks for stopping by, and happy coding!
