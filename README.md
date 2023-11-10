@@ -1,6 +1,6 @@
 # Hi there, I'm Tim!
 
-I'm a passionate Laravel developer with over 10 years of experience creating web applications. I specialize in building scalable and robust backends using the Laravel framework, and I love working with modern technologies like Livewire, Tailwindcss, and AWS. Owner of [Codexion](https://codexion.nl) and [InterimBlue](https://interimblue.com).
+With a decade of expertise in crafting web applications, I am a dedicated Laravel developer and the proud founder of [Codexion](https://codexion.nl) and [InterimBlue](https://interimblue.com). My specialization lies in developing scalable and resilient backends using Laravel. I am passionate about leveraging technologies such as PHP, Laravel, Filament, Livewire, and Tailwind CSS to deliver top-notch user experiences.
 
 ## Tech Stack
 
@@ -25,7 +25,7 @@ I'm a passionate Laravel developer with over 10 years of experience creating web
 
 ## How to Reach Me
 
-Feel free to reach out to me via [email](tim@codexion.nl), [Linkedin](https://www.linkedin.com/in/tim-wassenburg/), or [Twitter](https://twitter.com/timwassenburg/). I'm always happy to connect with other developers and collaborate on new projects.
+I welcome you to contact me through [email](tim@codexion.nl), connect with me on [LinkedIn](https://www.linkedin.com/in/tim-wassenburg/), or follow and message me on [Twitter](https://twitter.com/timwassenburg/). I'm always enthusiastic about connecting with fellow developers and exploring opportunities for collaboration on new projects.
 
 <p align="left"> <a href="https://www.github.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tim-wassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
