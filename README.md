@@ -1,6 +1,6 @@
 # Hi there, I'm Tim!
 
-I'm a passionate Laravel developer with over 10 years of experience creating web applications. I specialize in building scalable and robust backends using the Laravel framework, and I love working with modern technologies like Livewire, Tailwindcss, and AWS.
+I'm a passionate Laravel developer with over 10 years of experience creating web applications. I specialize in building scalable and robust backends using the Laravel framework, and I love working with modern technologies like Livewire, Tailwindcss, and AWS. Owner of [Codexion](https://codexion.nl) and [InterimBlue](https://interimblue.com).
 
 ## Tech Stack
 
