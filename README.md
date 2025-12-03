@@ -1,6 +1,6 @@
 # Hi there, I'm Tim!
 
-With a decade of expertise in crafting web applications, I am a dedicated Laravel developer and the proud founder of [Codexion](https://codexion.nl) and [InterimBlue](https://interimblue.com). My specialization lies in developing scalable and resilient backends using Laravel. I am passionate about leveraging technologies such as PHP, Laravel, Filament, Livewire, and Tailwind CSS to deliver top-notch user experiences.
+With a decade of expertise in crafting web applications, I am a dedicated Laravel developer and the proud founder of [Alphena](https://alphena.nl) and [InterimBlue](https://interimblue.com). My specialization lies in developing scalable and resilient backends using Laravel. I am passionate about leveraging technologies such as PHP, Laravel, Filament, Livewire, and Tailwind CSS to deliver top-notch user experiences.
 
 ## Tech Stack
 
@@ -25,12 +25,12 @@ With a decade of expertise in crafting web applications, I am a dedicated Larave
 
 ## How to Reach Me
 
-I welcome you to contact me through [email](tim@codexion.nl), or [Discord](https://discord.com/users/961655539232800849), connect with me on [LinkedIn](https://www.linkedin.com/in/tim-wassenburg/), or follow and message me on [Twitter](https://twitter.com/timwassenburg/). I'm always enthusiastic about connecting with fellow developers and exploring opportunities for collaboration on new projects.
+I welcome you to contact me through [email](tim@alphena.nl), or [Discord](https://discord.com/users/961655539232800849), connect with me on [LinkedIn](https://www.linkedin.com/in/tim-wassenburg/), or follow and message me on [X](https://x.com/timwassenburg/). I'm always enthusiastic about connecting with fellow developers and exploring opportunities for collaboration on new projects.
 
 <p align="left"> 
     <a href="https://www.github.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
     <a href="https://www.linkedin.com/in/tim-wassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="https://www.twitter.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="https://www.x.com/timwassenburg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /></a>
     <a href="https://discord.com/users/961655539232800849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
